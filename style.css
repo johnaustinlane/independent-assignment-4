@@ -1,0 +1,22 @@
+/*
+ *Name: John Lane
+ *UnityID: jalane3
+ *Date: 2/11/23
+ *Assignment: independednt assignment 4
+ *Description: independent assignment 4
+ */
+ /* number 2 part 3*/
+#photoedit {
+    max-width: 200px;
+	max-height: 250px:
+	border: 2px solid #FFFFFF;
+	border-style: outset;
+}
+/*part 2*/
+.table-border {
+    border: 1px solid #FFFFFF;
+}
+/*part 1*/
+#background{
+    background-color: #844FDE;
+}
